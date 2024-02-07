@@ -1,0 +1,29 @@
+a. Pitch for custom level:
+Our custom level has four rooms with mainly two kinds of obstacles, which are lasers and illusory floors. 
+The first two rooms are basicly tutorial for players to get familiar with the mechanics and last two are designed to be challenging.
+
+b. Pitch for mechanics:
+The core mechanic is the character suite-switching. 
+Samus have two suites with different colors and obstacles interact differently as Samus wearing different suite.
+
+c. How does our new mechanic / custom level change the way the game is played?
+There are mainly two kinds of obstacles in our design. The first one is laser and players can only see lasers with the same color as their suite.
+Only visible lasers will take effect. In order to pass through a series of laser zones, players need to keep switching suit colors to avoid triggering laser traps. 
+Players will need to change suits when they are about to hit a laser to avoid it, and will need to memorize the location of different colored lasers to prevent 
+them from being hit after changing suits. Also, there are new enemies introduced in it, including the flying enemies that will follow player and frozen enemies that will froze the player when hit. The second one is issulory walls/floors. These walls/floors will switch between illusion and solidity depend on the suite color.
+For example, the characters can only stand on the orange floors when they are wearing orange, otherwise, they will fall. This requires the player to switch colors 
+as they move to make sure the character goes through different walls or doesn't fall through the floors. 
+
+d. What new interesting decisions does our new mechanic / custom level bring about?
+In our custom level, not only does player have to consider avoiding traps and enemies, but they also need to consider the impact of suite-switching on the surrounding environment. 
+In some urgent situations, such as chasing enemies and moving lasers, players need to make timely judgments to switch to the most appropriate color to ensure a favorable environment.
+
+e. How do we explain the new mechanics to players?
+We first introduce our suite-switching functionality using text at the beginning of the game. We have set up two rooms mainly for teaching. 
+In the first room, the lasers do no damage, and a character's contact with a laser will only spawn a slow-moving, low-damage enemy. As a result, 
+players can safely explore the new mechanic in the first room. In the second room, there are only two walls, and the only way for a character to 
+pass through them is to wear a different color costume. So players cannot go through the second room until they learn the mechanics of the illusory walls/floors. And for the third room, player have to move fast to pass the third room to avoid the damage from laser. The third room will teach the player to remember the laser movements and predict them better. However, the third room will not allow player to stay for so long and hide, because once the player hide done the floor, the enemies will appear.
+
+f. Links for online portfolios:
+wangchey: https://wangchey.github.io/
+jiayingc: https://github.com/JiayingTheWarriorForCS/Design.txt
