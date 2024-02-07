@@ -26,4 +26,4 @@ pass through them is to wear a different color costume. So players cannot go thr
 
 f. Links for online portfolios:
 wangchey: https://wangchey.github.io/
-jiayingc: https://github.com/JiayingTheWarriorForCS/Design.txt
+jiayingc: https://github.com/JiayingTheWarriorForCS/Design.txt/blob/main/DESIGN.txt
